@@ -1,6 +1,9 @@
 ======================
 django-dynamic-scraper
 ======================
+THIS IS A FORK FROM THE ORIGINAL PROJECT : https://github.com/holgerd77/django-dynamic-scraper
+
+this package supports django2 
 
 Django Dynamic Scraper (DDS) is an app for Django which builds on top of the scraping framework Scrapy and lets
 you create and manage Scrapy spiders via the Django admin interface. It was originally developed for german
