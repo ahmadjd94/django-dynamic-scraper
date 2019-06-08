@@ -1,5 +1,5 @@
 ======================
-django-dynamic-scraper
+django-dynamic-scraper - django 2 support
 ======================
 THIS IS A FORK FROM THE ORIGINAL PROJECT : https://github.com/holgerd77/django-dynamic-scraper
 
